@@ -4,8 +4,9 @@ A simple vulkan-based modal editor written in zig. The project is only for the p
 
 ## Dependencies
 
-- glfw
-- vulkan
+- glfw (lib)
+- vulkan (lib)
+- freetype2 (lib + headers)
 
 ## Running
 
