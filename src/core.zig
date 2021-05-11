@@ -195,8 +195,8 @@ var text_cursor: TextCursor = .{
     },
     .text_buffer_index = 0,
 };
+
 // Globals
-//
 
 var screen_dimensions_previous = geometry.Dimensions2D(.pixel){
     .width = 0,
